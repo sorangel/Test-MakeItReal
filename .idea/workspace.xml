@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2636e452-62e3-43a7-a603-2bae25e61481" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1rX4LCWQ6yn2RCxn1OyidFfjJAv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../interfaz-test" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sorangel M.C.A\Desktop\MaikeItReal-Prueba-Tecnica\assets\images" />
+      <recent name="C:\Users\Sorangel M.C.A\Desktop\MaikeItReal-Prueba-Tecnica\assets\imeges" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/MaikeItReal-Prueba-Tecnica/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2636e452-62e3-43a7-a603-2bae25e61481" name="Default Changelist" comment="" />
+      <created>1619109043005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619109043005</updated>
+      <workItem from="1619109044093" duration="7050000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="127" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619110349028">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="127" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1619110349028" />
+    <state x="624" y="223" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1619111257272">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="624" y="223" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1619111257272" />
+    <state x="687" y="234" key="FileChooserDialogImpl" timestamp="1619109161667">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="687" y="234" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1619109161667" />
+    <state width="930" height="4" key="GridCell.Tab.0.bottom" timestamp="1619115131026">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="930" height="4" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1619115131026" />
+    <state width="930" height="4" key="GridCell.Tab.0.center" timestamp="1619115131025">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="930" height="4" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1619115131025" />
+    <state width="930" height="4" key="GridCell.Tab.0.left" timestamp="1619115131025">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="930" height="4" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1619115131025" />
+    <state width="930" height="4" key="GridCell.Tab.0.right" timestamp="1619115131025">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="930" height="4" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1619115131025" />
+    <state width="930" height="4" key="GridCell.Tab.1.bottom" timestamp="1619115131026">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="930" height="4" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1619115131026" />
+    <state width="930" height="4" key="GridCell.Tab.1.center" timestamp="1619115131026">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="930" height="4" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1619115131026" />
+    <state width="930" height="4" key="GridCell.Tab.1.left" timestamp="1619115131026">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="930" height="4" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1619115131026" />
+    <state width="930" height="4" key="GridCell.Tab.1.right" timestamp="1619115131026">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="930" height="4" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1619115131026" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MaikeItReal_Prueba_Tecnica$index_html.dat" NAME="index.html Coverage Results" MODIFIED="1619115577984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

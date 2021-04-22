@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Bangers', cursive;
+    font-family: 'Orelega One', cursive;
+    font-family: 'Original Surfer', cursive;
+    position: relative;
+    border: none;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.4;
+}
+
+body {
+    background-image: url(assets/images/wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+    padding:10px;
+    margin: 10px;
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+    padding: 5rem;
+}
+.image {
+    width:300px;
+   border-radius:1000px;
+    border:5px solid white;
+}
+.container h1 {
+    font-size: 30px;
+    padding: 20px;
+    font-weight:bold;
+    color: white;
+}
+ .container p{
+     font-size: 20px;
+     font-weight:bold;
+     color: white;
+ }
